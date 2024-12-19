@@ -1,4 +1,4 @@
-# Модулі у мові Пітон. Створення та робота з модулями
+# Модулі у мові Пітон. Створення та робота з модулями https://pypi.org/project/cowsay/
 
 # import time
 # import datetime as date
